@@ -1,0 +1,62 @@
+[
+    [
+        "adress",
+        "type",
+        "latitude",
+        "longitude"
+    ],
+    [
+        "Coin rue Holt et 7e avenue",
+        "C",
+        "45.5058381",
+        "-73.47426"
+    ],
+    [
+        "Coin 10e avenue et boul Rosemont",
+        "A",
+        "45.5533359",
+        "-73.5804409"
+    ],
+    [
+        "Coin Boul rosemont et 2e avenue",
+        "C",
+        "45.51380678",
+        "-73.54713772"
+    ],
+    [
+        "5405 9e Avenue, Montr\u00e9al, QC H1Y 2J7",
+        "D",
+        "45.54861447",
+        "-73.57558298"
+    ],
+    [
+        "Coin boul St-michel et Rosemont",
+        "A",
+        "45.7058381",
+        "-73.47426"
+    ],
+    [
+        "Coin 10e avenue et rue Bellechasse",
+        "B",
+        "45.55424483",
+        "-73.58157872"
+    ],
+    [
+        "3240 Rue Dandurand, Montr\u00e9al, QC H1Y 1V5",
+        "D",
+        "45.55296373",
+        "-73.57483182"
+    ],
+    [
+        "Coin 5e avenue et rue Bellechasse",
+        "B",
+        "45.5058381",
+        "-73.47426"
+    ],
+    [
+        "2894 Boulevard Rosemont, Montr\u00e9al, QC H1Y 1L7",
+        "D",
+        "45.55161298",
+        "-73.58129702"
+    ]
+]
